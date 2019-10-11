@@ -1,2 +1,2 @@
 # Geo
-Repository for Remote sensing / GIS tools 
+Repository for Remote sensing / GIS Data and tools 
